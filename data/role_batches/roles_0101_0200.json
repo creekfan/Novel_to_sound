@@ -1,0 +1,386 @@
+{
+  "range": {
+    "start": 101,
+    "end": 200
+  },
+  "role_count": 28,
+  "roles": [
+    {
+      "role": "旁白",
+      "chapter_count": 9,
+      "line_count": 455,
+      "chapters": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "吕阳",
+      "chapter_count": 9,
+      "line_count": 98,
+      "chapters": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "素女",
+      "chapter_count": 6,
+      "line_count": 4,
+      "chapters": [
+        101,
+        102,
+        103,
+        105,
+        106,
+        107
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian"
+    },
+    {
+      "role": "听幽祖师",
+      "chapter_count": 4,
+      "line_count": 43,
+      "chapters": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "稚嫩",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "补天峰主",
+      "chapter_count": 4,
+      "line_count": 29,
+      "chapters": [
+        101,
+        102,
+        103,
+        104
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "阴山真人",
+      "chapter_count": 4,
+      "line_count": 19,
+      "chapters": [
+        101,
+        105,
+        107,
+        108
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "赵旭河",
+      "chapter_count": 3,
+      "line_count": 16,
+      "chapters": [
+        102,
+        105,
+        107
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "陈信安",
+      "chapter_count": 3,
+      "line_count": 8,
+      "chapters": [
+        101,
+        104,
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "刘信",
+      "chapter_count": 3,
+      "line_count": 2,
+      "chapters": [
+        101,
+        102,
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "重光真人",
+      "chapter_count": 2,
+      "line_count": 10,
+      "chapters": [
+        101,
+        108
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "清澄飞雪真君",
+      "chapter_count": 2,
+      "line_count": 7,
+      "chapters": [
+        108,
+        109
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "柔音",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Serena"
+    },
+    {
+      "role": "伏龙罗汉",
+      "chapter_count": 2,
+      "line_count": 0,
+      "chapters": [
+        102,
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "盘龙真人",
+      "chapter_count": 2,
+      "line_count": 0,
+      "chapters": [
+        102,
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "补天峰主分神",
+      "chapter_count": 2,
+      "line_count": 0,
+      "chapters": [
+        101,
+        107
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "徐鑫",
+      "chapter_count": 1,
+      "line_count": 18,
+      "chapters": [
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "秦天合",
+      "chapter_count": 1,
+      "line_count": 12,
+      "chapters": [
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "本体陈信安",
+      "chapter_count": 1,
+      "line_count": 4,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "幡灵陈信安",
+      "chapter_count": 1,
+      "line_count": 1,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "清河仙子",
+      "chapter_count": 1,
+      "line_count": 1,
+      "chapters": [
+        102
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian"
+    },
+    {
+      "role": "云家老祖",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "伏龙",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        101
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "倩儿",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian"
+    },
+    {
+      "role": "玉素真",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        101
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian"
+    },
+    {
+      "role": "神武门弟子",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "金丹真君",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "阴山",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric"
+    },
+    {
+      "role": "陆元淳",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    },
+    {
+      "role": "飞霞仙子",
+      "chapter_count": 1,
+      "line_count": 0,
+      "chapters": [
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice"
+    }
+  ]
+}

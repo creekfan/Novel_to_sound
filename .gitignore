@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Audio output
+output/
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Novel content (excluded from repo)
+data/novel/
+data/chapter/
+data/chapters_json/
+
+# Environment (secrets)
+.env
+
+# OS
+Thumbs.db
+Desktop.ini

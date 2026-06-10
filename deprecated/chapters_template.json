@@ -1,0 +1,44 @@
+{
+  "chapters": [
+    {
+      "chapter": "chapter_001",
+      "lines": [
+        {
+          "role": "旁白",
+          "dialogue": "崖上，一位身穿道袍的英武少年盘膝而坐，目视江北。",
+          "language": "Chinese"
+        },
+        {
+          "role": "吕阳",
+          "dialogue": "巫鬼道主，首恶当诛！",
+          "language": "Chinese"
+        },
+        {
+          "role": "旁白",
+          "dialogue": "锵锵！下一秒，剑光如瀑，秘境中的金丹剑气彻底苏醒。",
+          "language": "Chinese"
+        }
+      ]
+    },
+    {
+      "chapter": "chapter_002",
+      "lines": [
+        {
+          "role": "刘信",
+          "dialogue": "你以为这样就赢了吗？",
+          "language": "Chinese"
+        },
+        {
+          "role": "峰主",
+          "dialogue": "收手吧，今日到此为止。",
+          "language": "Chinese"
+        },
+        {
+          "role": "旁白",
+          "dialogue": "山风乍起，战意却未散。",
+          "language": "Chinese"
+        }
+      ]
+    }
+  ]
+}

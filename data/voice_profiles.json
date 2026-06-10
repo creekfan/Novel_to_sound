@@ -1,0 +1,2184 @@
+{
+  "roles": {
+    "吕阳": {
+      "role": "吕阳",
+      "voice_status": "unassigned",
+      "chapter_count": 107,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "沉稳",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "黑衣道人": {
+      "role": "黑衣道人",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        1,
+        2
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "阴戾",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "系统": {
+      "role": "系统",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        1,
+        75
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "陈良": {
+      "role": "陈良",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        1
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "孩童音",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "老杂役": {
+      "role": "老杂役",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        1
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "玉素真": {
+      "role": "玉素真",
+      "voice_status": "unassigned",
+      "chapter_count": 12,
+      "chapters": [
+        1,
+        2,
+        5,
+        76,
+        77,
+        82,
+        83,
+        84,
+        89,
+        90,
+        91,
+        101
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "娇媚丰腴",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "记名弟子": {
+      "role": "记名弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        2
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "刘信": {
+      "role": "刘信",
+      "voice_status": "unassigned",
+      "chapter_count": 19,
+      "chapters": [
+        3,
+        4,
+        5,
+        15,
+        22,
+        23,
+        24,
+        26,
+        32,
+        33,
+        34,
+        42,
+        50,
+        75,
+        76,
+        77,
+        101,
+        102,
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "阴戾",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "陈皓": {
+      "role": "陈皓",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        3
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "热情",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "道人": {
+      "role": "道人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        3
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "接引弟子": {
+      "role": "接引弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        5
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "秦宇": {
+      "role": "秦宇",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        5
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "花甲老人": {
+      "role": "花甲老人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        6
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "花甲老人，语气淡淡",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Uncle_Fu",
+      "locked": true
+    },
+    "弟子令牌": {
+      "role": "弟子令牌",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        6
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "英武女子": {
+      "role": "英武女子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        6
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "英武女子，凤目锐意",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "云妙清": {
+      "role": "云妙清",
+      "voice_status": "unassigned",
+      "chapter_count": 9,
+      "chapters": [
+        7,
+        8,
+        9,
+        20,
+        39,
+        46,
+        50,
+        51,
+        53
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "赵旭河": {
+      "role": "赵旭河",
+      "voice_status": "unassigned",
+      "chapter_count": 27,
+      "chapters": [
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        27,
+        28,
+        29,
+        30,
+        31,
+        36,
+        37,
+        45,
+        46,
+        47,
+        48,
+        57,
+        82,
+        84,
+        102,
+        105,
+        107
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "落魄",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "清尘": {
+      "role": "清尘",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        9,
+        22
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "轻柔魅惑",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Serena",
+      "locked": true
+    },
+    "为首的黑衣人": {
+      "role": "为首的黑衣人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        10
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "黑衣人": {
+      "role": "黑衣人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        10
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "老人": {
+      "role": "老人",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        11,
+        79
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "苍老",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Uncle_Fu",
+      "locked": true
+    },
+    "藏书阁老人": {
+      "role": "藏书阁老人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        12
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "低沉",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Uncle_Fu",
+      "locked": true
+    },
+    "清尘仙子": {
+      "role": "清尘仙子",
+      "voice_status": "unassigned",
+      "chapter_count": 7,
+      "chapters": [
+        12,
+        13,
+        23,
+        24,
+        26,
+        27,
+        28
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "柔声细语",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Serena",
+      "locked": true
+    },
+    "王柏荣": {
+      "role": "王柏荣",
+      "voice_status": "unassigned",
+      "chapter_count": 5,
+      "chapters": [
+        13,
+        16,
+        19,
+        20,
+        58
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "老年",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Uncle_Fu",
+      "locked": true
+    },
+    "众弟子": {
+      "role": "众弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        13
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "旁白": {
+      "role": "旁白",
+      "voice_status": "unassigned",
+      "chapter_count": 108,
+      "chapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "路人": {
+      "role": "路人",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        15,
+        18
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "宗门公告": {
+      "role": "宗门公告",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        18
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "萧石叶": {
+      "role": "萧石叶",
+      "voice_status": "unassigned",
+      "chapter_count": 9,
+      "chapters": [
+        21,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        89,
+        90
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "豪奢",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "弟子": {
+      "role": "弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        21,
+        34
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "门人": {
+      "role": "门人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        22
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "敌人": {
+      "role": "敌人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        22
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "陈信安": {
+      "role": "陈信安",
+      "voice_status": "unassigned",
+      "chapter_count": 11,
+      "chapters": [
+        26,
+        34,
+        77,
+        78,
+        79,
+        84,
+        89,
+        96,
+        101,
+        104,
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "鸿运道人": {
+      "role": "鸿运道人",
+      "voice_status": "unassigned",
+      "chapter_count": 7,
+      "chapters": [
+        26,
+        27,
+        75,
+        90,
+        91,
+        92,
+        94
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "风流倜傥",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "未知声音": {
+      "role": "未知声音",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        26
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "执法堂弟子": {
+      "role": "执法堂弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        27
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "师尊": {
+      "role": "师尊",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        27
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "盘龙真人": {
+      "role": "盘龙真人",
+      "voice_status": "unassigned",
+      "chapter_count": 4,
+      "chapters": [
+        27,
+        97,
+        102,
+        105
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "师兄灵魂": {
+      "role": "师兄灵魂",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        30
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "陆元淳": {
+      "role": "陆元淳",
+      "voice_status": "unassigned",
+      "chapter_count": 10,
+      "chapters": [
+        30,
+        31,
+        32,
+        39,
+        40,
+        41,
+        42,
+        43,
+        82,
+        105
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "惊疑不定",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "补天峰主": {
+      "role": "补天峰主",
+      "voice_status": "unassigned",
+      "chapter_count": 17,
+      "chapters": [
+        31,
+        32,
+        75,
+        83,
+        84,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        99,
+        101,
+        102,
+        103,
+        104
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "声音如雷",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "补天峰弟子": {
+      "role": "补天峰弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        31
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "中年男子": {
+      "role": "中年男子",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        32,
+        50
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "飞霞": {
+      "role": "飞霞",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        35
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "青年": {
+      "role": "青年",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        35,
+        61
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "飞霞仙子": {
+      "role": "飞霞仙子",
+      "voice_status": "unassigned",
+      "chapter_count": 14,
+      "chapters": [
+        36,
+        37,
+        38,
+        40,
+        42,
+        43,
+        45,
+        46,
+        47,
+        48,
+        49,
+        55,
+        95,
+        105
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "清脆悦耳",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "圣宗弟子": {
+      "role": "圣宗弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        37,
+        38
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "神武门弟子": {
+      "role": "神武门弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 3,
+      "chapters": [
+        39,
+        48,
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "吴志冲": {
+      "role": "吴志冲",
+      "voice_status": "unassigned",
+      "chapter_count": 3,
+      "chapters": [
+        40,
+        43,
+        45
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "端木元": {
+      "role": "端木元",
+      "voice_status": "unassigned",
+      "chapter_count": 3,
+      "chapters": [
+        40,
+        43,
+        45
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "未知修士": {
+      "role": "未知修士",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        40
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "欧阳昊泽": {
+      "role": "欧阳昊泽",
+      "voice_status": "unassigned",
+      "chapter_count": 4,
+      "chapters": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "杀意横生",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "吴志冲/端木元": {
+      "role": "吴志冲/端木元",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        41
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "值守弟子": {
+      "role": "值守弟子",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        43
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "中年道士": {
+      "role": "中年道士",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        43
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "太霄镜": {
+      "role": "太霄镜",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        44
+      ],
+      "dominant_gender": null,
+      "dominant_feature": "奶气",
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "欧阳烽": {
+      "role": "欧阳烽",
+      "voice_status": "unassigned",
+      "chapter_count": 6,
+      "chapters": [
+        45,
+        48,
+        52,
+        54,
+        55,
+        56
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "神色冷峻",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "阴山真人": {
+      "role": "阴山真人",
+      "voice_status": "unassigned",
+      "chapter_count": 16,
+      "chapters": [
+        49,
+        55,
+        56,
+        57,
+        58,
+        72,
+        73,
+        74,
+        89,
+        95,
+        97,
+        99,
+        101,
+        105,
+        107,
+        108
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "青年，面相阴翳，脸色苍白",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Dylan",
+      "locked": true
+    },
+    "罗无涯": {
+      "role": "罗无涯",
+      "voice_status": "unassigned",
+      "chapter_count": 11,
+      "chapters": [
+        49,
+        51,
+        52,
+        54,
+        56,
+        58,
+        59,
+        60,
+        69,
+        82,
+        83
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "阴冷",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "云妙真": {
+      "role": "云妙真",
+      "voice_status": "unassigned",
+      "chapter_count": 7,
+      "chapters": [
+        50,
+        51,
+        52,
+        53,
+        57,
+        58,
+        60
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "清冷",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "云知秋": {
+      "role": "云知秋",
+      "voice_status": "unassigned",
+      "chapter_count": 6,
+      "chapters": [
+        51,
+        54,
+        55,
+        56,
+        61,
+        62
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "明禅": {
+      "role": "明禅",
+      "voice_status": "unassigned",
+      "chapter_count": 3,
+      "chapters": [
+        54,
+        55,
+        56
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "苍老",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Uncle_Fu",
+      "locked": true
+    },
+    "重光真人": {
+      "role": "重光真人",
+      "voice_status": "unassigned",
+      "chapter_count": 7,
+      "chapters": [
+        57,
+        73,
+        95,
+        97,
+        99,
+        101,
+        108
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "霸道",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "神武门真人": {
+      "role": "神武门真人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        57
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "王松": {
+      "role": "王松",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        58
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "重明": {
+      "role": "重明",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        59
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "云家老祖": {
+      "role": "云家老祖",
+      "voice_status": "unassigned",
+      "chapter_count": 12,
+      "chapters": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        68,
+        69,
+        70,
+        71,
+        72,
+        89,
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "低沉",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Uncle_Fu",
+      "locked": true
+    },
+    "丫鬟": {
+      "role": "丫鬟",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        62
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "清脆",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "魏铁衣": {
+      "role": "魏铁衣",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        62
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "洪亮",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "魏云": {
+      "role": "魏云",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        64
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "姬雄英": {
+      "role": "姬雄英",
+      "voice_status": "unassigned",
+      "chapter_count": 5,
+      "chapters": [
+        64,
+        65,
+        67,
+        68,
+        69
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "洪亮",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "王泊远": {
+      "role": "王泊远",
+      "voice_status": "unassigned",
+      "chapter_count": 3,
+      "chapters": [
+        66,
+        67,
+        71
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "丁飞鹰": {
+      "role": "丁飞鹰",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        68
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "玄苦": {
+      "role": "玄苦",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        68
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "众天人": {
+      "role": "众天人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        69
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "嘶哑",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "武道天人": {
+      "role": "武道天人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        71
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "少年": {
+      "role": "少年",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        79
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "黑袍道人": {
+      "role": "黑袍道人",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        80,
+        81
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "神像": {
+      "role": "神像",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        80,
+        81
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "清河仙子": {
+      "role": "清河仙子",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        82,
+        102
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "修士": {
+      "role": "修士",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        82
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "陈舒倩": {
+      "role": "陈舒倩",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        84,
+        96
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "鸿运": {
+      "role": "鸿运",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        84
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "重光": {
+      "role": "重光",
+      "voice_status": "unassigned",
+      "chapter_count": 3,
+      "chapters": [
+        84,
+        94,
+        100
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "听幽祖师": {
+      "role": "听幽祖师",
+      "voice_status": "unassigned",
+      "chapter_count": 12,
+      "chapters": [
+        84,
+        86,
+        87,
+        88,
+        89,
+        93,
+        97,
+        100,
+        105,
+        106,
+        107,
+        108
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": "稚嫩",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "白无常": {
+      "role": "白无常",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        85
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "黑无常": {
+      "role": "黑无常",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        85
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "牛头": {
+      "role": "牛头",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        85
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "日游神": {
+      "role": "日游神",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        85
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "日夜游神": {
+      "role": "日夜游神",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        85
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "长老": {
+      "role": "长老",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        85
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "听幽教长老": {
+      "role": "听幽教长老",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        86
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "金丹剑气": {
+      "role": "金丹剑气",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        87
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "听幽教八位长老": {
+      "role": "听幽教八位长老",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        87
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "玉枢剑阁真人": {
+      "role": "玉枢剑阁真人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        89
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "天吴道庭": {
+      "role": "天吴道庭",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        89
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "素女": {
+      "role": "素女",
+      "voice_status": "unassigned",
+      "chapter_count": 13,
+      "chapters": [
+        91,
+        92,
+        93,
+        95,
+        96,
+        97,
+        99,
+        101,
+        102,
+        103,
+        105,
+        106,
+        107
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "众人": {
+      "role": "众人",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        95
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "魂影": {
+      "role": "魂影",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        96
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "作者": {
+      "role": "作者",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        96
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "伏龙": {
+      "role": "伏龙",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        98,
+        101
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "江西释修": {
+      "role": "江西释修",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        99
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "世尊": {
+      "role": "世尊",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        99
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "伏龙罗汉": {
+      "role": "伏龙罗汉",
+      "voice_status": "unassigned",
+      "chapter_count": 4,
+      "chapters": [
+        99,
+        100,
+        102,
+        105
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "释修净土": {
+      "role": "释修净土",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        100
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "补天峰主分神": {
+      "role": "补天峰主分神",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        101,
+        107
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "本体陈信安": {
+      "role": "本体陈信安",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "幡灵陈信安": {
+      "role": "幡灵陈信安",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "倩儿": {
+      "role": "倩儿",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        103
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Vivian",
+      "locked": true
+    },
+    "金丹真君": {
+      "role": "金丹真君",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        105
+      ],
+      "dominant_gender": null,
+      "dominant_feature": null,
+      "voice_source": "voice_design",
+      "voice_id": "",
+      "suggested_voice_source": "voice_design",
+      "suggested_voice": "neutral clear narrator-like voice",
+      "locked": true
+    },
+    "清澄飞雪真君": {
+      "role": "清澄飞雪真君",
+      "voice_status": "unassigned",
+      "chapter_count": 2,
+      "chapters": [
+        108,
+        109
+      ],
+      "dominant_gender": "女",
+      "dominant_feature": "柔音",
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Serena",
+      "locked": true
+    },
+    "秦天合": {
+      "role": "秦天合",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "徐鑫": {
+      "role": "徐鑫",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    },
+    "阴山": {
+      "role": "阴山",
+      "voice_status": "unassigned",
+      "chapter_count": 1,
+      "chapters": [
+        109
+      ],
+      "dominant_gender": "男",
+      "dominant_feature": null,
+      "voice_source": "custom_voice",
+      "voice_id": "",
+      "suggested_voice_source": "custom_voice",
+      "suggested_voice": "Eric",
+      "locked": true
+    }
+  }
+}

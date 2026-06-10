@@ -1,0 +1,2 @@
+﻿clone_id,role,role_key,ref_audio_path,ref_text,language,status,cache_prompt_path,notes
+clone_0001,,,,,zh,pending,,fill this row or append more rows when user wants cloning
