@@ -124,7 +124,8 @@ python src/pipeline/stage_b_json_converter.py --help
 - `低沉沙哑的老年男性声音`
 - `清脆明亮的少年音`
 
-### 方式二：音频克隆 (Voice Clone)
+
+### 方式二：音频克隆  推荐(Voice Clone   Recommend)
 填写 `clone_ref_audio_path` (参考音频路径) 和 `clone_ref_text` (参考文本) 两列。
 
 两种方式互斥，同时填写会被跳过并标记为冲突。
